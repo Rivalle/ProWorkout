@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ProWorkout</string>
+    <string name="pro_workout">Pro Workout</string>
+    <string name="improve_yourself_in_30_days">Improve yourself in 30 days</string>
+    <string name="get_started">Get Started</string>
+    <string name="choose_your_plan">Choose your plan</string>
+    <string name="full_body">Full Body Program (3 days/week)</string>
+    <string name="todo">TODO</string>
+    <string name="this_program_is_for_people_who_want_to_train_3_times_per_week">This program is for people who want to train 3 times per week.</string>
+    <string name="upper_lower">Upper/Lower Program (4 days/week)</string>
+    <string name="this_program_is_for_people_who_want_to_train_4_times_per_week">This program is for people who want to train 4 times per week.</string>
+    <string name="this_program_is_for_people_who_want_to_train_6_times_per_week">This program is for people who want to train 6 times per week.</string>
+    <string name="push_pull_legs">Push/Pull/Legs Program (6 days/week)</string>
+    <string name="item_title">Item_title</string>
+    <string name="item_detail">Item_detail</string>
+    <string name="item_image_description">Item_image_description</string>
+    <string name="goals">goals</string>
+    <string name="tab_text_1">Goals</string>
+    <string name="tab_text_2">Plan</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="current_weight">Current weight(kg)</string>
+    <string name="calorie_intake">Calorie Intake</string>
+    <string name="age">Age</string>
+    <string name="height_cm">Height(cm)</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="plan_1">Plan 1</string>
+    <string name="plan_2">Plan 2</string>
+    <string name="plan_3">Plan 3</string>
+    <string name="update">Update</string>
+    <string name="progress">Progress</string>
+    <string name="check_your_progress">Check your progress!</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Weight">Weight</string>
+    <string name="measure_yourself">Measure Yourself</string>
+</resources>
